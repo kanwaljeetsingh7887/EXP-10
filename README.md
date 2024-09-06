@@ -22,6 +22,10 @@ The actual and the formal parameters point to the same memory address.
 Any changes made to the parameters within the function are directly reflected in the original values outside the function.
 ## Code: 10A
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 10A
+//23070123124
 // // Printing the values by using callby value 
 
 #include<iostream> 
@@ -53,6 +57,10 @@ int main()
 
 ## Code: 10B
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 10B
+//23070123124
 // Swapping the values 
 
 #include<iostream> 
@@ -81,6 +89,10 @@ int main()
 
 ## Code:10C
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 10C
+//23070123124
 // Swapping the values using call by reference  
 
 #include<iostream> 
